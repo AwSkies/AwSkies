@@ -12,26 +12,17 @@ Hi! I'm a physics and computer science student from the Boston area. I'm current
   - Terraria
   - Pokémon
   - FromSoftware games
-## Languages
-- C#
-- C/C++
-- Python
-- Java
-- Batch
-- JavaScript/TypeScipt
-- HTML/CSS
-## Softwares
-- Unity
-- SOLIDWORKS
-- GIMP 2
-- Autodesk Maya
-- Audacity
-- DaVinci Resolve
-- Adobe Lightroom
 
-![AwSkies's Stats](https://github-readme-stats.vercel.app/api?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&count_private=true)  
-![AwSkies's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwSkies&theme=prussian&hide_border=true)  
-![AwSkies's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&layout=compact)  
+| Languages | Softwares |
+| --- | --- |
+| C# | Unity |
+| C/C++ | SOLIDWORKS |
+| Python | GIMP 2 |
+| Java | Autodesk Maya |
+| Batch | Audacity |
+| JavaScript/TypeScipt | DaVinci Resolve |
+| HTML/CSS | Adobe Lightroom |
+| ![AwSkies's Stats](https://github-readme-stats.vercel.app/api?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&count_private=true) | ![AwSkies's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&layout=compact) |
 
 <!--
 **AwSkies/AwSkies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
