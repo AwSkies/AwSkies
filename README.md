@@ -7,7 +7,7 @@ Hi! I'm a physics and computer science student from the Boston area. I'm current
 
 | Experience | Interests |
 |--- | --- |
-| McGill Rocket Team embedded programmer | Astrophysics, quantum and particle physics, cosmology |
+| [McGill Rocket Team](https://www.mcgillrocketteam.com/) embedded programmer | Astrophysics, quantum and particle physics, cosmology |
 | [FTC](https://www.firstinspires.org/robotics/ftc) robotics [Team Unlimited](https://ftc0001.org) captain and software lead | Machine learning |
 | [CyberPatriot](https://www.uscyberpatriot.org/) Windows specialist | All manners of programming and all things technical |
 | Python programming teacher | Rock/hardcore/metalcore/metal/progressive metal |
