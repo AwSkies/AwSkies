@@ -4,15 +4,15 @@ Hi! I'm a physics and computer science student from the Boston area. I'm current
 - 🔭 I’m currently working on *the McGill Rocket Team, and a website to play Pokémon battle puzzles on Showdown!*
 - 🌱 I’m currently learning *React and TypeScript*
 - ⚡ Fun fact: *I know how to program Texas Instruments calculators*
-## Interests
-- Astrophysics, quantum and particle physics, cosmology
-- Machine learning
-- All manners of programming and all things technical
-- Rock/harccore/metalcore/metal/progressive metal
-- Video games and game development
-  - Terraria
-  - Pokémon
-  - FromSoftware games
+
+| Interests | Experience |
+|--- | --- |
+| Astrophysics, quantum and particle physics, cosmology | McGill Rocket Team embedded programmer |
+| Machine learning | [FTC](https://www.firstinspires.org/robotics/ftc) Robotics Team captain and software lead |
+| All manners of programming and all things technical | [CyberPatriot](https://www.uscyberpatriot.org/) Windows specialist |
+| Rock/hardcore/metalcore/metal/progressive metal | Game developer |
+| Video games and game development (*Terraria, Pokémon, and FromSoftware games in particular*) | Python programming teacher |
+| | Discord bot developer |
 
 | Languages | Softwares |
 | --- | --- |
