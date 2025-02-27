@@ -14,7 +14,7 @@ Hi! I'm a physics and computer science student from the Boston area, and I'm cur
 | Game developer | Video games  (*Terraria, Pokémon, and FromSoftware games in particular*) |
 | Discord bot developer | |
 
-| Languages | Softwares |
+| Languages | Software |
 | --- | --- |
 | C# | Unity |
 | C/C++ | SOLIDWORKS |
