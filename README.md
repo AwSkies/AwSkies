@@ -5,13 +5,16 @@ Hi! I'm a physics and computer science student from the Boston area, and I'm cur
 - 🌱 I’m currently learning *React and TypeScript*
 - ⚡ Fun fact: *I know how to program Texas Instruments calculators*
 
+### [Full CV/Resume](./CV-AkashShah.pdf)
+
 | Experience | Interests |
 |--- | --- |
-| [McGill Rocket Team](https://www.mcgillrocketteam.com/) embedded programmer | Astrophysics, quantum and particle physics, cosmology |
-| [FTC](https://www.firstinspires.org/robotics/ftc) robotics [Team Unlimited](https://ftc0001.org) captain and software lead | Machine learning |
-| [CyberPatriot](https://www.uscyberpatriot.org/) Windows specialist | All manners of programming and all things technical |
-| Python programming teacher | Rock/hardcore/metalcore/metal/progressive metal |
-| Game developer | Video games  (*Terraria, Pokémon, and FromSoftware games in particular*) |
+| Intern at [Boardwalktech](https://www.boardwalktech.com/) | Astrophysics, quantum and particle physics, cosmology |
+| [McGill Rocket Team](https://www.mcgillrocketteam.com/) embedded programmer | Machine learning |
+| [FTC](https://www.firstinspires.org/robotics/ftc) robotics [Team Unlimited](https://ftc0001.org) captain and software lead | All manners of programming and all things technical |
+| [CyberPatriot](https://www.uscyberpatriot.org/) Windows specialist | Rock/hardcore/metalcore/metal/progressive metal |
+| Python programming teacher | Video games  (*Terraria, Pokémon, and FromSoftware games in particular*) |
+| Game developer | |
 | Discord bot developer | |
 
 | Languages | Software |
@@ -23,7 +26,7 @@ Hi! I'm a physics and computer science student from the Boston area, and I'm cur
 | Batch | Audacity |
 | JavaScript/TypeScipt | DaVinci Resolve |
 | HTML/CSS | Adobe Lightroom |
-| ![AwSkies's Stats](https://github-readme-stats.vercel.app/api?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&count_private=true) | ![AwSkies's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&layout=compact) |
+| ![AwSkies's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&layout=compact) | ![AwSkies's Stats](https://github-readme-stats.vercel.app/api?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&count_private=true) |
 
 <!--
 **AwSkies/AwSkies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
