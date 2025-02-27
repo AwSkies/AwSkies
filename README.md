@@ -1,6 +1,6 @@
 # Akash S.
 ### *A.K.A. AwSky / AwSkies*
-Hi! I'm a physics and computer science student from the Boston area, and I'm currently studying at McGill University in Montréal. I love using programming to make interesting tools and projects related to whatever I'm into at the moment, and I'm willing to learn anything and everything I need to turn my ideas into a reality. Most consistently, I am a game developer.  
+Hi! I'm a physics and computer science student from the Boston area, and I'm currently studying at McGill University in Montréal. I love using programming to make interesting tools and projects related to whatever I'm into at the moment, and I'm willing to learn anything and everything I need to turn my ideas into a reality. I program all kinds of things, but most consistently physics projects and game development.  
 - 🔭 I’m currently working on *the McGill Rocket Team, and a website to play Pokémon battle puzzles on Showdown!*
 - 🌱 I’m currently learning *React and TypeScript*
 - ⚡ Fun fact: *I know how to program Texas Instruments calculators*
