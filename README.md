@@ -8,9 +8,9 @@ Hi! I'm a physics and computer science student from the Boston area, and I'm cur
 
 > ![AwSkies's Stats](https://github-readme-stats.vercel.app/api?username=AwSkies&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
-Here's my [Full CV](./CV-AkashShah.pdf). For a quick look at what I've done, here are my experiences and interests.
-
 ## Experience
+
+Here's my [**Full CV**](./CV-AkashShah.pdf) for more information.
 
 - **Research:** Diffusive nuclear burning in neutron stars research
 - **Research:** Looking for dark matter in the gamma-ray sky
